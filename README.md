@@ -67,7 +67,7 @@ O portfólio está dividido nas seguintes seções:
 * Contato: Informações e formulário para entrar em contato
 
 # 📄 Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [MIT](./LICENSE) para detalhes.
 
 # 📱 Contato
 Daniel Romagnoli - danielf.romagnoli@gmail.com
